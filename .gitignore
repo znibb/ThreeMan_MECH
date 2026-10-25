@@ -1,0 +1,8 @@
+# FreeCAD backups
+*.FCBak
+
+# Output dir
+output/
+
+# pycache dir
+scripts/__pycache__/
